@@ -1,0 +1,742 @@
+[
+    {
+        "name": "ACCOUN_NUM",
+        "type": "STRING",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "APPRAISAL_YR",
+        "type": "INTEGER",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "IMPR_VAL",
+        "type": "FLOAT",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "LAND_VAL",
+        "type": "FLOAT",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "LAND_AG_EXEMPT",
+        "type": "FLOAT",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "AG_USE_VAL",
+        "type": "FLOAT",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "TOT_VAL",
+        "type": "FLOAT",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "HMSTD_CAP_VAL",
+        "type": "FLOAT",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "REVAL_YR",
+        "type": "INTEGER",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "PREV_REVAL_YR",
+        "type": "INTEGER",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "PREV_MKT_VAL",
+        "type": "FLOAT",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "TOT_CONTRIB_AMT",
+        "type": "FLOAT",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "TAXPAYER_REP",
+        "type": "STRING",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "CITY_jurisdiction_DESC",
+        "type": "STRING",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "COUNTY_jurisdiction_DESC",
+        "type": "STRING",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "ISD_jurisdiction_DESC",
+        "type": "STRING",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "HOSPITAL_jurisdiction_DESC",
+        "type": "STRING",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "COLLEGE_jurisdiction_DESC",
+        "type": "STRING",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "SPECIAL_DIST_jurisdiction_DESC",
+        "type": "STRING",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "CITY_SPLIT_PCT",
+        "type": "FLOAT",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "COUNTY_SPLIT_PCT",
+        "type": "FLOAT",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "ISD_SPLIT_PCT",
+        "type": "FLOAT",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "HOSPITAL_SPLIT_PCT",
+        "type": "FLOAT",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "COLLEGE_SPILT_PCT",
+        "type": "FLOAT",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "SPECIAL_DIST_SPLIT_PCT",
+        "type": "FLOAT",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "CITY_TAXABLE_VAL",
+        "type": "FLOAT",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "COUNTY_TAXABLE_VAL",
+        "type": "FLOAT",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "ISD_TAXABLE_VAL",
+        "type": "FLOAT",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "HOSPITAL_TAXABLE_VAL",
+        "type": "FLOAT",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "COLLEGE_TAXABLE_VAL",
+        "type": "FLOAT",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "SPECIAL_DIST_TAXABLE_VAL",
+        "type": "FLOAT",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "CITY_CEILING_VALUE",
+        "type": "FLOAT",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "COUNTY_CEILING_VALUE",
+        "type": "FLOAT",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "ISD_CEILING_VALUE",
+        "type": "FLOAT",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "HOSPITAL_CEILING_VALUE",
+        "type": "FLOAT",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "COLLEGE_CEILING_VALUE",
+        "type": "FLOAT",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "SPECIAL_DIST_CEILING_VALUE",
+        "type": "FLOAT",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "VID_IND",
+        "type": "STRING",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "GIS_PARCEL_ID",
+        "type": "STRING",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "APPRAISAL_METH_CD",
+        "type": "INTEGER",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "RENDITION_PENALTY",
+        "type": "STRING",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "DIVISION_CD",
+        "type": "STRING",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "EXTRNL_CNTY_ACCT",
+        "type": "STRING",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "EXTRNL_CITY_ACCT",
+        "type": "STRING",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "P_BUS_TYP_CD",
+        "type": "STRING",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "BLDG_CLASS_CD",
+        "type": "STRING",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "SPTD_CODE",
+        "type": "STRING",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "FREEPORT_EXEMPTION",
+        "type": "BOOLEAN",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "BIZ_NAME",
+        "type": "STRING",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "OWNER_NAME1",
+        "type": "STRING",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "OWNER_NAME2",
+        "type": "STRING",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "EXCLUDE_OWNER",
+        "type": "BOOLEAN",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "OWNER_ADDRESS_LINE1",
+        "type": "STRING",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "OWNER_ADDRESS_LINE2",
+        "type": "STRING",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "OWNER_ADDRESS_LINE3",
+        "type": "STRING",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "OWNER_ADDRESS_LINE4",
+        "type": "STRING",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "OWNER_CITY",
+        "type": "STRING",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "OWNER_STATE",
+        "type": "STRING",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "OWNER_ZIPCODE",
+        "type": "STRING",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "OWNER_COUNTRY",
+        "type": "STRING",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "STREET_NUM",
+        "type": "INTEGER",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "STREET_HALF_NUM",
+        "type": "STRING",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "FULL_STREET_NAME",
+        "type": "STRING",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "BLDG_ID",
+        "type": "STRING",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "UNIT_ID",
+        "type": "STRING",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "MAPSCO",
+        "type": "STRING",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "NBHD_CD",
+        "type": "STRING",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "LEGAL1",
+        "type": "STRING",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "LEGAL2",
+        "type": "STRING",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "LEGAL3",
+        "type": "STRING",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "LEGAL4",
+        "type": "STRING",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "LEGAL5",
+        "type": "STRING",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "DEED_TXFR_DATE",
+        "type": "STRING",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "PHONE_NUM",
+        "type": "STRING",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "LMA",
+        "type": "STRING",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "IMA",
+        "type": "STRING",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "TAX_OBJ_ID",
+        "type": "STRING",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "BLDG_CLASS_DESC",
+        "type": "STRING",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "YR_BUILT",
+        "type": "INTEGER",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "EFF_YR_BUILT",
+        "type": "INTEGER",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "ACT_AGE",
+        "type": "FLOAT",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "DESIRABILITY_RATING",
+        "type": "STRING",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "TOT_MAIN_SF",
+        "type": "INTEGER",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "TOT_LIVING_AREA_SF",
+        "type": "INTEGER",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "PCT_COMPLETE",
+        "type": "FLOAT",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "NUM_STORIES_DESC",
+        "type": "STRING",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "CONSTR_FRAM_TYP_DESC",
+        "type": "STRING",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "FOUNDATION_TYP_DESC",
+        "type": "STRING",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "HEATING_TYP_DESC",
+        "type": "STRING",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "AC_TYP_DESC",
+        "type": "STRING",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "FENCE_TYP_DESC",
+        "type": "STRING",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "EXT_WALL_DESC",
+        "type": "STRING",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "BASEMENT_DESC",
+        "type": "STRING",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "ROOF_TYP_DESC",
+        "type": "STRING",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "ROOF_MAT_DESC",
+        "type": "STRING",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "NUM_FIREPLACES",
+        "type": "INTEGER",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "NUM_KITCHENS",
+        "type": "INTEGER",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "NUM_FULL_BATHS",
+        "type": "INTEGER",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "NUM_HALF_BATHS",
+        "type": "INTEGER",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "NUM_WET_BARS",
+        "type": "INTEGER",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "NUM_BEDROOMS",
+        "type": "INTEGER",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "SPRINKLER_SYS_IND",
+        "type": "BOOLEAN",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "DECK_IND",
+        "type": "BOOLEAN",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "SPA_IND",
+        "type": "BOOLEAN",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "POOL_IND",
+        "type": "BOOLEAN",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "SAUNA_IND",
+        "type": "BOOLEAN",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "MBL_HOME_SER_NUM",
+        "type": "STRING",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "MBL_HOME_MANUFCTR",
+        "type": "STRING",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "MBL_HOME_LENGTH",
+        "type": "INTEGER",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "MBL_HOME_WIDTH",
+        "type": "INTEGER",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "MBL_HOME_SPACE",
+        "type": "STRING",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "DEPREPRECIATION_PCT",
+        "type": "FLOAT",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "YEAR_BUILT",
+        "type": "INTEGER",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "GROSS_BLDG_AREA",
+        "type": "INTEGER",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "FOUNDAT1ON_TYP_DESC",
+        "type": "STRING",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "FOUNDATION_AREA",
+        "type": "INTEGER",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "NUM_STORIES",
+        "type": "INTEGER",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "CONSTR_TYP_DESC",
+        "type": "STRING",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "NUM_UNITS",
+        "type": "INTEGER",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "NET_LEASE_AREA",
+        "type": "INTEGER",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "PROPERTY_NAME",
+        "type": "STRING",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "PROPERTY_QUAL_DESC",
+        "type": "STRING",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "PROPERTY_COND_DESC",
+        "type": "STRING",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "PHYS_DEPR_PCT",
+        "type": "FLOAT",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "FUNCT_DEPR_PCT",
+        "type": "FLOAT",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "EXTRNL_DEPR_PCT",
+        "type": "FLOAT",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "TOT_DEPR_PCT",
+        "type": "FLOAT",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "IMP_VAL",
+        "type": "INTEGER",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "MKT_VAL",
+        "type": "INTEGER",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "APPR_METHOD_DESC",
+        "type": "STRING",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "COMPARABILITY_CD",
+        "type": "STRING",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "REMODEL_YEAR",
+        "type": "INTEGER",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "ACCOUNT_NUM",
+        "type": "STRING",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "SECTION_NUM",
+        "type": "INTEGER",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "SPTD_CD",
+        "type": "STRING",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "SPTD_DESC",
+        "type": "STRING",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "ZONING",
+        "type": "STRING",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "FRONT_DIM",
+        "type": "INTEGER",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "DEPTH_DIM",
+        "type": "INTEGER",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "AREA_SIZE",
+        "type": "FLOAT",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "AREA_UOM_DESC",
+        "type": "STRING",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "PRICING_METH_DESC",
+        "type": "STRING",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "COST_PER_UOM",
+        "type": "FLOAT",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "MARKET_ADJ_PCT",
+        "type": "FLOAT",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "VAL_AMT",
+        "type": "FLOAT",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "AG_USE_IND",
+        "type": "BOOLEAN",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "ACCT_AG_VAL_AMT",
+        "type": "INTEGER",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "",
+        "type": "STRING",
+        "mode": "REPEATED"
+    }
+]
