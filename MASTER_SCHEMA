@@ -2,741 +2,741 @@
     {
         "name": "ACCOUN_NUM",
         "type": "STRING",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "APPRAISAL_YR",
         "type": "INTEGER",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "IMPR_VAL",
         "type": "FLOAT",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "LAND_VAL",
         "type": "FLOAT",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "LAND_AG_EXEMPT",
         "type": "FLOAT",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "AG_USE_VAL",
         "type": "FLOAT",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "TOT_VAL",
         "type": "FLOAT",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "HMSTD_CAP_VAL",
         "type": "FLOAT",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "REVAL_YR",
         "type": "INTEGER",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "PREV_REVAL_YR",
         "type": "INTEGER",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "PREV_MKT_VAL",
         "type": "FLOAT",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "TOT_CONTRIB_AMT",
         "type": "FLOAT",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "TAXPAYER_REP",
         "type": "STRING",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "CITY_jurisdiction_DESC",
         "type": "STRING",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "COUNTY_jurisdiction_DESC",
         "type": "STRING",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "ISD_jurisdiction_DESC",
         "type": "STRING",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "HOSPITAL_jurisdiction_DESC",
         "type": "STRING",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "COLLEGE_jurisdiction_DESC",
         "type": "STRING",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "SPECIAL_DIST_jurisdiction_DESC",
         "type": "STRING",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "CITY_SPLIT_PCT",
         "type": "FLOAT",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "COUNTY_SPLIT_PCT",
         "type": "FLOAT",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "ISD_SPLIT_PCT",
         "type": "FLOAT",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "HOSPITAL_SPLIT_PCT",
         "type": "FLOAT",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "COLLEGE_SPILT_PCT",
         "type": "FLOAT",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "SPECIAL_DIST_SPLIT_PCT",
         "type": "FLOAT",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "CITY_TAXABLE_VAL",
         "type": "FLOAT",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "COUNTY_TAXABLE_VAL",
         "type": "FLOAT",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "ISD_TAXABLE_VAL",
         "type": "FLOAT",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "HOSPITAL_TAXABLE_VAL",
         "type": "FLOAT",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "COLLEGE_TAXABLE_VAL",
         "type": "FLOAT",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "SPECIAL_DIST_TAXABLE_VAL",
         "type": "FLOAT",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "CITY_CEILING_VALUE",
         "type": "FLOAT",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "COUNTY_CEILING_VALUE",
         "type": "FLOAT",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "ISD_CEILING_VALUE",
         "type": "FLOAT",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "HOSPITAL_CEILING_VALUE",
         "type": "FLOAT",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "COLLEGE_CEILING_VALUE",
         "type": "FLOAT",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "SPECIAL_DIST_CEILING_VALUE",
         "type": "FLOAT",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "VID_IND",
         "type": "STRING",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "GIS_PARCEL_ID",
         "type": "STRING",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "APPRAISAL_METH_CD",
         "type": "INTEGER",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "RENDITION_PENALTY",
         "type": "STRING",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "DIVISION_CD",
         "type": "STRING",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "EXTRNL_CNTY_ACCT",
         "type": "STRING",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "EXTRNL_CITY_ACCT",
         "type": "STRING",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "P_BUS_TYP_CD",
         "type": "STRING",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "BLDG_CLASS_CD",
         "type": "STRING",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "SPTD_CODE",
         "type": "STRING",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "FREEPORT_EXEMPTION",
         "type": "BOOLEAN",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "BIZ_NAME",
         "type": "STRING",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "OWNER_NAME1",
         "type": "STRING",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "OWNER_NAME2",
         "type": "STRING",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "EXCLUDE_OWNER",
         "type": "BOOLEAN",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "OWNER_ADDRESS_LINE1",
         "type": "STRING",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "OWNER_ADDRESS_LINE2",
         "type": "STRING",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "OWNER_ADDRESS_LINE3",
         "type": "STRING",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "OWNER_ADDRESS_LINE4",
         "type": "STRING",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "OWNER_CITY",
         "type": "STRING",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "OWNER_STATE",
         "type": "STRING",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "OWNER_ZIPCODE",
         "type": "STRING",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "OWNER_COUNTRY",
         "type": "STRING",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "STREET_NUM",
         "type": "INTEGER",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "STREET_HALF_NUM",
         "type": "STRING",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "FULL_STREET_NAME",
         "type": "STRING",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "BLDG_ID",
         "type": "STRING",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "UNIT_ID",
         "type": "STRING",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "MAPSCO",
         "type": "STRING",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "NBHD_CD",
         "type": "STRING",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "LEGAL1",
         "type": "STRING",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "LEGAL2",
         "type": "STRING",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "LEGAL3",
         "type": "STRING",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "LEGAL4",
         "type": "STRING",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "LEGAL5",
         "type": "STRING",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "DEED_TXFR_DATE",
         "type": "STRING",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "PHONE_NUM",
         "type": "STRING",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "LMA",
         "type": "STRING",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "IMA",
         "type": "STRING",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "TAX_OBJ_ID",
         "type": "STRING",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "BLDG_CLASS_DESC",
         "type": "STRING",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "YR_BUILT",
         "type": "INTEGER",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "EFF_YR_BUILT",
         "type": "INTEGER",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "ACT_AGE",
         "type": "FLOAT",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "DESIRABILITY_RATING",
         "type": "STRING",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "TOT_MAIN_SF",
         "type": "INTEGER",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "TOT_LIVING_AREA_SF",
         "type": "INTEGER",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "PCT_COMPLETE",
         "type": "FLOAT",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "NUM_STORIES_DESC",
         "type": "STRING",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "CONSTR_FRAM_TYP_DESC",
         "type": "STRING",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "FOUNDATION_TYP_DESC",
         "type": "STRING",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "HEATING_TYP_DESC",
         "type": "STRING",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "AC_TYP_DESC",
         "type": "STRING",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "FENCE_TYP_DESC",
         "type": "STRING",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "EXT_WALL_DESC",
         "type": "STRING",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "BASEMENT_DESC",
         "type": "STRING",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "ROOF_TYP_DESC",
         "type": "STRING",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "ROOF_MAT_DESC",
         "type": "STRING",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "NUM_FIREPLACES",
         "type": "INTEGER",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "NUM_KITCHENS",
         "type": "INTEGER",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "NUM_FULL_BATHS",
         "type": "INTEGER",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "NUM_HALF_BATHS",
         "type": "INTEGER",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "NUM_WET_BARS",
         "type": "INTEGER",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "NUM_BEDROOMS",
         "type": "INTEGER",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "SPRINKLER_SYS_IND",
         "type": "BOOLEAN",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "DECK_IND",
         "type": "BOOLEAN",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "SPA_IND",
         "type": "BOOLEAN",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "POOL_IND",
         "type": "BOOLEAN",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "SAUNA_IND",
         "type": "BOOLEAN",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "MBL_HOME_SER_NUM",
         "type": "STRING",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "MBL_HOME_MANUFCTR",
         "type": "STRING",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "MBL_HOME_LENGTH",
         "type": "INTEGER",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "MBL_HOME_WIDTH",
         "type": "INTEGER",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "MBL_HOME_SPACE",
         "type": "STRING",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "DEPREPRECIATION_PCT",
         "type": "FLOAT",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "YEAR_BUILT",
         "type": "INTEGER",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "GROSS_BLDG_AREA",
         "type": "INTEGER",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "FOUNDAT1ON_TYP_DESC",
         "type": "STRING",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "FOUNDATION_AREA",
         "type": "INTEGER",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "NUM_STORIES",
         "type": "INTEGER",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "CONSTR_TYP_DESC",
         "type": "STRING",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "NUM_UNITS",
         "type": "INTEGER",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "NET_LEASE_AREA",
         "type": "INTEGER",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "PROPERTY_NAME",
         "type": "STRING",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "PROPERTY_QUAL_DESC",
         "type": "STRING",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "PROPERTY_COND_DESC",
         "type": "STRING",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "PHYS_DEPR_PCT",
         "type": "FLOAT",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "FUNCT_DEPR_PCT",
         "type": "FLOAT",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "EXTRNL_DEPR_PCT",
         "type": "FLOAT",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "TOT_DEPR_PCT",
         "type": "FLOAT",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "IMP_VAL",
         "type": "INTEGER",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "MKT_VAL",
         "type": "INTEGER",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "APPR_METHOD_DESC",
         "type": "STRING",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "COMPARABILITY_CD",
         "type": "STRING",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "REMODEL_YEAR",
         "type": "INTEGER",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "ACCOUNT_NUM",
         "type": "STRING",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "SECTION_NUM",
         "type": "INTEGER",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "SPTD_CD",
         "type": "STRING",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "SPTD_DESC",
         "type": "STRING",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "ZONING",
         "type": "STRING",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "FRONT_DIM",
         "type": "INTEGER",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "DEPTH_DIM",
         "type": "INTEGER",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "AREA_SIZE",
         "type": "FLOAT",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "AREA_UOM_DESC",
         "type": "STRING",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "PRICING_METH_DESC",
         "type": "STRING",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "COST_PER_UOM",
         "type": "FLOAT",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "MARKET_ADJ_PCT",
         "type": "FLOAT",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "VAL_AMT",
         "type": "FLOAT",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "AG_USE_IND",
         "type": "BOOLEAN",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "ACCT_AG_VAL_AMT",
         "type": "INTEGER",
-        "mode": "REPEATED"
+        "mode": "null"
     },
     {
         "name": "",
         "type": "STRING",
-        "mode": "REPEATED"
+        "mode": "null"
     }
 ]
