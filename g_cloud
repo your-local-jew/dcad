@@ -1,1 +1,41 @@
 gcloud config list [SECTION/PROPERTY] [--all] [GLOBAL-FLAG …]
+
+$ gcloud config set project myProject
+
+gcloud config set disable_color false --installation
+
+[app]
+cloud_build_timeout (unset)
+stop_previous_version (unset)
+suppress_change_warning = True
+use_gsutil = true
+[component_manager]
+additional_repositories (unset)
+disable_update_check = True
+[compute]
+gce_metadata_read_timeout_sec = 5
+region (unset)
+zone (unset)
+[container]
+cluster (unset)
+use_client_certificate (unset)
+[core]
+account = christian@rothchild.co
+check_gce_metadata = False
+disable_color (unset)
+disable_prompts (unset)
+disable_usage_reporting = False
+log_http (unset)
+pass_credentials_to_gsutil (unset)
+project = cash-machine
+trace_token (unset)
+user_output_enabled (unset)
+verbosity (unset)
+[metrics]
+environment = devshell
+[proxy]
+address (unset)
+password (unset)
+port (unset)
+type (unset)
+username (unset)
