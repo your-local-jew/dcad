@@ -1,0 +1,1 @@
+gcloud config list [SECTION/PROPERTY] [--all] [GLOBAL-FLAG …]
